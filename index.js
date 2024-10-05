@@ -16,6 +16,7 @@ app.get('/umayer', async(req,res) => {
         name: 'Umayer Hossain',
         age:19,
         cgpa: 3.82,
+        ggo: 33
     })
 })
 
